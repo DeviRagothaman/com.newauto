@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class CoreJavaBrushup1 {
 
 	public static void main(String[] args) {
-		
+		// Do i need this..?
 		
 		int[] arr2= {1,2,3,4,5,6,7,9};
 //check if value multiplies by 2
@@ -22,6 +22,7 @@ public class CoreJavaBrushup1 {
 			}
 		
 		
+			// Demo commit
 		}
 		
 ArrayList<String> gh=new ArrayList<String>();

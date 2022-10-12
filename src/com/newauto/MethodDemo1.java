@@ -6,15 +6,16 @@ public class MethodDemo1 {
 		// TODO Auto-generated method stub
 
 		MethodDemo1 d= new MethodDemo1();
-		d.getdata();
+		String name = d.getdata();
 		
+		System.out.println(name);
 	}
 
 	public String getdata()
 	{
 		
 		System.out.println("Hello world");
-		return "devi senthil";
+		return "devi senthil -??";
 		
 	}
 	
